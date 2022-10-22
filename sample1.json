@@ -21,7 +21,7 @@
   },
 
   "call": {
-    "show": true,
+    "show": false,
     "color": "blue",
     "text": "CALL",
     "logo": "phone",
