@@ -1,0 +1,45 @@
+{
+  "backgroundColor": "green",
+  "title": {
+    "text": "Gary Lloyd World1",
+    "size": 35,
+    "color": "pink",
+    "show": true
+  },
+
+  "image": {
+    "url": "https://reactjs.org/logo-og.png",
+    "show": true,
+    "width": "100%",
+    "height": 150
+  },
+  "description": {
+    "text": "This is a description from the json file gary lloyd1",
+    "size": 15,
+    "color": "blue",
+    "show": true
+  },
+
+  "call": {
+    "show": true,
+    "color": "yellow",
+    "text": "CALL2",
+    "logo": "phone",
+    "value": "+11222"
+  },
+
+  "email": {
+    "show": true,
+    "color": "blue",
+    "text": "EMAIL1",
+    "logo": "email",
+    "value": "garysenoc@gmail.com"
+  },
+  "link": {
+    "show": true,
+    "color": "green",
+    "text": "LINK1",
+    "logo": "web",
+    "value": "google.com"
+  }
+}
