@@ -1,9 +1,9 @@
 {
   "backgroundColor": "green",
   "title": {
-    "text": "Gary Lloyd World",
+    "text": "Gary Lloyd World1",
     "size": 35,
-    "color": "yellow",
+    "color": "pink",
     "show": true
   },
 
@@ -14,32 +14,32 @@
     "height": 150
   },
   "description": {
-    "text": "This is a description from the json file gary lloyd",
+    "text": "This is a description from the json file gary lloyd1",
     "size": 15,
-    "color": "green",
+    "color": "blue",
     "show": true
   },
 
   "call": {
     "show": true,
-    "color": "blue",
-    "text": "CALL",
+    "color": "yellow",
+    "text": "CALL2",
     "logo": "phone",
-    "value": "+123456789"
+    "value": "+11222"
   },
 
   "email": {
     "show": true,
-    "color": "pink",
-    "text": "EMAIL",
+    "color": "blue",
+    "text": "EMAIL1",
     "logo": "email",
-    "value": "gsenoc@gmail.com"
+    "value": "garysenoc@gmail.com"
   },
   "link": {
     "show": true,
     "color": "green",
-    "text": "LINK",
+    "text": "LINK1",
     "logo": "web",
-    "value": "facebook.com"
+    "value": "google.com"
   }
 }
