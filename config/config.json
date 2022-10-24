@@ -1,9 +1,9 @@
 {
   "backgroundColor": "green",
   "title": {
-    "text": "Gary Lloyd World1",
-    "size": 35,
-    "color": "pink",
+    "text": "Hello Universe123",
+    "size": 25,
+    "color": "violet",
     "show": true
   },
 
@@ -14,18 +14,18 @@
     "height": 150
   },
   "description": {
-    "text": "This is a description from the json file gary lloyd1",
-    "size": 15,
-    "color": "blue",
+    "text": "This is a description from the json12312312 file",
+    "size": 23,
+    "color": "yellow",
     "show": true
   },
 
   "call": {
     "show": true,
-    "color": "yellow",
-    "text": "CALL2",
+    "color": "black",
+    "text": "CALL me",
     "logo": "phone",
-    "value": "+11222"
+    "value": "+111111"
   },
 
   "email": {

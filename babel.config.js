@@ -5,4 +5,12 @@ module.exports = {
       plugins: ['react-native-paper/babel'],
     },
   },
+  plugins: [
+    [
+      '@babel/plugin-transform-react-jsx',
+      {
+        runtime: 'automatic',
+      },
+    ],
+  ],
 };
